@@ -46,7 +46,7 @@ while (true)
             Console.WriteLine("попробуйте еще раз");
             break;
             case < 4:
-            Console.WriteLine(".......");
+            Console.WriteLine("....");
             break;
             default:
             Console.WriteLine("(-_-)");
