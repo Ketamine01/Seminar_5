@@ -72,4 +72,4 @@ for (int i = 0; i < length; i++)
     }
 }
 
-Console.WriteLine($"Сумма элементов с нечетными тндексами равна {sum}");
+Console.WriteLine($"Сумма элементов с нечетными индексами равна {sum}");
